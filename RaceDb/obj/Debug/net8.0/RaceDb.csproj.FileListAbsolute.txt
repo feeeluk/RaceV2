@@ -1,0 +1,13 @@
+C:\Users\phili\source\repos\feeeluk\Race\RaceV2\RaceDb\obj\Debug\net8.0\RaceDb.csproj.AssemblyReference.cache
+C:\Users\phili\source\repos\feeeluk\Race\RaceV2\RaceDb\obj\Debug\net8.0\RaceDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\source\repos\feeeluk\Race\RaceV2\RaceDb\obj\Debug\net8.0\RaceDb.AssemblyInfoInputs.cache
+C:\Users\phili\source\repos\feeeluk\Race\RaceV2\RaceDb\obj\Debug\net8.0\RaceDb.AssemblyInfo.cs
+C:\Users\phili\source\repos\feeeluk\Race\RaceV2\RaceDb\obj\Debug\net8.0\RaceDb.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\repos\feeeluk\Race\RaceV2\RaceDb\bin\Debug\net8.0\RaceDb.deps.json
+C:\Users\phili\source\repos\feeeluk\Race\RaceV2\RaceDb\bin\Debug\net8.0\RaceDb.dll
+C:\Users\phili\source\repos\feeeluk\Race\RaceV2\RaceDb\bin\Debug\net8.0\RaceDb.pdb
+C:\Users\phili\source\repos\feeeluk\Race\RaceV2\RaceDb\obj\Debug\net8.0\RaceDb.dll
+C:\Users\phili\source\repos\feeeluk\Race\RaceV2\RaceDb\obj\Debug\net8.0\refint\RaceDb.dll
+C:\Users\phili\source\repos\feeeluk\Race\RaceV2\RaceDb\obj\Debug\net8.0\RaceDb.pdb
+C:\Users\phili\source\repos\feeeluk\Race\RaceV2\RaceDb\obj\Debug\net8.0\ref\RaceDb.dll
+C:\Users\phili\source\repos\feeeluk\Race\RaceV2\RaceDb\obj\Debug\net8.0\RaceDb.sourcelink.json
